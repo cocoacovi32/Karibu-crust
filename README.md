@@ -1,2 +1,1 @@
-# Karibu-crust
-design a clean, original mini e-commerce site for a Nairobi bakery called “Karibu Crust”. We’ll use semantic HTML, a cohesive brand, responsive CSS (Flexbox/Grid), and vanilla JavaScript for interactivity. 
+Karibu-crusta clean, original mini e-commerce site for a Nairobi bakery called “Karibu Crust”. We’ll use semantic HTML, a cohesive brand, responsive CSS (Flexbox/Grid), and vanilla JavaScript for interactivity. 
